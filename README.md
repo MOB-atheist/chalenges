@@ -1,11 +1,10 @@
 # challenges
 
 <figure>
-    <img src="https://easy4youcomunicacao.com.br/images/2019/07/09/web-design-easy-4-you-comunicacao2.png" alt="Webdesign">
-    <footer>
-        <small>Image Source: <a href="https://easy4youcomunicacao.com.br/index.php/servicos/web-design">easy4you</a></small>
-    </footer>
+    <img src="https://easy4youcomunicacao.com.br/images/2019/07/09/web-design-easy-4-you-comunicacao2.png" style="margin-left: 25%; margin-right: 25%; width: 50%;" alt="Webdesign">
 </figure>
+<sup>Image Source: <a href="https://easy4youcomunicacao.com.br/index.php/servicos/web-design">easy4you</a></sup>
+
 
 In this repository i'll  be creating front-end chalenges for myself, these chalenges will include UI togheter with UX chalenges, i meant to create this repository so i can improve my software developer skills, and most important, increase my productivity within my work, anyone is welcome to take fork this repository without any limitations and do the chalenges, if you have asny problem with any files or need help, contact me i'll do my best to reach out and help you.
 
