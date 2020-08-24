@@ -19,7 +19,7 @@ The files structure will have a folder for each project, inside it a folder with
 
 ## Recommendations
 
-I personally recomend using (Visual Studio Code)[https://code.visualstudio.com/] with these extensions installed.
+I personally recomend using [Visual Studio Code](https://code.visualstudio.com/) with these extensions installed.
 
  - Auto Rename Tag
  - Auto Close Tag
