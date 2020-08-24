@@ -1,8 +1,8 @@
 # challenges
 
-<figure>
-    <img src="https://easy4youcomunicacao.com.br/images/2019/07/09/web-design-easy-4-you-comunicacao2.png" style="margin-left: 25%; margin-right: 25%; width: 50%;" alt="Webdesign">
-</figure>
+<p align="center">
+    <img src="https://easy4youcomunicacao.com.br/images/2019/07/09/web-design-easy-4-you-comunicacao2.png" alt="Webdesign">
+</p>
 <sup>Image Source: <a href="https://easy4youcomunicacao.com.br/index.php/servicos/web-design">easy4you</a></sup>
 
 
